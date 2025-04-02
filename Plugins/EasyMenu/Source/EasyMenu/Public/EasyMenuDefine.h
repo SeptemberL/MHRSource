@@ -1,0 +1,3 @@
+#pragma once
+ 
+EASYMENU_API DECLARE_LOG_CATEGORY_EXTERN(LogEasyMenu, Log, All);
